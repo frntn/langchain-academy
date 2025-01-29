@@ -10,7 +10,8 @@
                 "ms-python.python",
                 "ms-python.vscode-pylance",
                 "ms-toolsai.jupyter",
-                "ms-azuretools.vscode-docker"
+                "ms-azuretools.vscode-docker",
+                "saoudrizwan.claude-dev"
             ],
             "settings": {
                 "python.defaultInterpreterPath": "/usr/local/bin/python",
