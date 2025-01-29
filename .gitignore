@@ -165,6 +165,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Dev Container
+.devcontainer/.log/
+.devcontainer/devcontainer.env
+.devcontainer/.perm/
+
 # General
 .DS_Store
 .AppleDouble
